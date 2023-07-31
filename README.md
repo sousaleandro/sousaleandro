@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Fala comigo! Me chamo **Leandro Sousa**, sou da Bahia. Desenvolvedor Front-End, aprendendo sobre Back-End!!
+Fala comigo! Me chamo **Leandro Sousa**, sou da Bahia. Desenvolvedor Front-End, aprendendo sobre Back-End!! </br>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="50px" height="50px" >]
 
 <!--
 **sousaleandro/sousaleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
