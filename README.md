@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Fala comigo! Me chamo **Leandro Sousa**, sou da Bahia. Desenvolvedor Front-End, aprendendo sobre Back-End!!
+
 <!--
 **sousaleandro/sousaleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
