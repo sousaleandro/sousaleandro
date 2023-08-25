@@ -5,6 +5,10 @@ Fala comigo! Me chamo **Leandro Sousa**, sou da Bahia. Desenvolvedor Full Stack,
 <a href="https://www.linkedin.com/in/leandrogsousa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sousaleandro?tab=repositories" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousaleandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousaleandro&layout=compact&langs_count=10&theme=dark"/>
+</div>
 <!--
 <div align="center">
 GITHUB STATUS
