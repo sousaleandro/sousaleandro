@@ -4,7 +4,6 @@ Fala comigo! Me chamo **Leandro Sousa**, sou da Bahia. Desenvolvedor Full Stack,
 </br>
 <a href="https://www.linkedin.com/in/leandrogsousa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sousaleandro?tab=repositories" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="lgleandro14@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </br>
 <!--
 <div align="center">
