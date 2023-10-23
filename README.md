@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Fala comigo! Me chamo **Leandro Sousa**, sou da Bahia. Desenvolvedor Full Stack, aprendendo sobre Back-End na [Trybe](https://www.betrybe.com/)!!
+Fala comigo! Me chamo **Leandro Sousa**, sou da Bahia. Desenvolvedor Full Stack, com foco no Desenvolvimento Back-End.
 </br>
 <a href="https://www.linkedin.com/in/leandrogsousa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sousaleandro?tab=repositories" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -25,7 +25,9 @@ TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, hi
 </br>
 
 **Back-End**
-- Em desenvolvimento!
+- Desenvolvimento de RESTful APIs com **Node.js** e **Express**.
+- Integração com banco de dados **MySQL** usando o ORM **Sequelize**.
+- Cobertura de testes com **Mocha**.
 </br>
 
 **Tempo livre**
