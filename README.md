@@ -18,16 +18,16 @@ TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, hi
 </div>
 -->
 
-**Front-End**
-- Desenvolvimento Web Front-End, centrado em **React**, a biblioteca **JavaScript** focada na criação de interfaces utilizadas pelos clientes em páginas web.
-- Implementação do **Redux** e **Hooks** para gerenciamento do estado das aplicações feitas com o **React**.
-- Cobertura de testes com **Jest** e **React Testing Library**.
-</br>
-
 **Back-End**
 - Desenvolvimento de RESTful APIs com **Node.js** e **Express**.
 - Integração com banco de dados **MySQL** usando o ORM **Sequelize**.
 - Cobertura de testes com **Mocha**.
+</br>
+
+**Front-End**
+- Desenvolvimento Web Front-End, centrado em **React**, a biblioteca **JavaScript** focada na criação de interfaces utilizadas pelos clientes em páginas web.
+- Implementação do **Redux** e **Hooks** para gerenciamento do estado das aplicações feitas com o **React**.
+- Cobertura de testes com **Jest** e **React Testing Library**.
 </br>
 
 **Tempo livre**
