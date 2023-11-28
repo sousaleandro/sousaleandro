@@ -39,7 +39,7 @@ TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, hi
 
 **Contato**
 - Pode me mandar um email no endereço: lgleandro14@gmail.com.
-- Aqui está o meu <a href="https://github.com/sousaleandro/sousaleandro/blob/main/sousaleandro-cv.pdf" target="_blank">Curriculum Vitae</a> para informações detalhadas.
+- Aqui está o meu <a href="https://github.com/sousaleandro/sousaleandro/blob/main/leandrosousa-cv.pdf" target="_blank">Curriculum Vitae</a> para informações detalhadas.
 </br>
 
 **Linguagens, Frameworks, Bibliotecas**
