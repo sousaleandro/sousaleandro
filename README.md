@@ -38,7 +38,7 @@ TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, hi
 
 **Contact**
 - Feel free to email me: lgleandro14@gmail.com.
-- Check out my <a href="https://www.linkedin.com/in/sousaleandrodev/" target="_blank">LinkedIn</a> for more details.
+- Check out my <a href="https://www.linkedin.com/in/sousaleandrodev/?locale=en_US" target="_blank">LinkedIn</a> for more details.
 </br>
 
 **Languages, Frameworks & Libraries**
