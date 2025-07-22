@@ -1,4 +1,4 @@
-Hey, I'm Leandro Sousa, a Full Stack Web Developer from Bahia, Brazil — with a strong focus on back-end development.
+Hey, I'm Leandro Sousa, a Full Stack Developer from Bahia, Brazil — with a strong focus on back-end development.
 </br>
 <a href="https://www.linkedin.com/in/leandrogsousa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sousaleandro?tab=repositories" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
